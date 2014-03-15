@@ -1,0 +1,35 @@
+{
+"name": "flickerClass",
+"title": "jQuery flickerClass",
+"description": "jQuery plugin to flicker or toggle classes at random.",
+"keywords": [
+"animation",
+"random",
+"css",
+"flicker"
+],
+"version": "0.1.0",
+"author": {
+"name": "Mina Nagy Zaki",
+"url": "https://github.com/mnzaki"
+},
+"maintainers": [
+{
+"name": "Mina Nagy Zaki",
+"email": "mnzaki@gmail.com",
+"url": "http://mnzaki.github.io"
+}
+],
+"licenses": [
+{
+  "type": "GPLv2",
+  "url": "www.gnu.org/licenses/gpl-2.0.html"
+}
+],
+"bugs": "https://github.com/mnzaki/jquery-flickerClass/issues",
+"homepage": "https://github.com/mnzaki/jquery-flickerClass",
+"docs": "https://github.com/mnzaki/jquery-flickerClass",
+"dependencies": {
+  "jquery": ">=1.0"
+}
+}
